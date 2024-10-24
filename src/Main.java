@@ -72,6 +72,8 @@ public class Main {
         var time2 = sotrudniks * 8;
         System.out.println("Если в компании работает " + sotrudniks + " человека, то всего " + time2 + " часов работы может быть поделено между сотрудниками");
 
+        System.out.println("добавил ветку");
+
 
 
 
